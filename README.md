@@ -5,7 +5,7 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://linkedin.com/in/m-v-chirag-65b900271"><img align="left" src="https://raw.githubusercontent.com/m-v-chirag-65b900271/m-v-chirag-65b900271/main/images/linkedin.svg" alt="Chirag | LinkedIn" width="21px"/></a>
+<a href="https://linkedin.com/in/m-v-chirag-65b900271"><img align="left" src="https://raw.githubusercontent.com/m-v-chirag-65b900271/m-v-chirag-65b900271/main/images/linkedin.svg" alt="Chirag | LinkedIn" width="210px"/></a>
 <!--
 **ChiragMV/ChiragMV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
