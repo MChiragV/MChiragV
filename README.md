@@ -2,6 +2,9 @@
 [![Chirag’s github stats](https://github-readme-stats.vercel.app/api?username=ChiragMV)](https://github.com/ChiragMV)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragMV&layout=compact)](https://github.com/ChiragMV)
+- 📫 How to reach me: via Linkedin
+- ⚡ Fun fact: I prefer documentation over tutorials
+
 
 ### 🤝 Connect with me:
 
@@ -19,7 +22,3 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 -->
-<a>
-- 📫 How to reach me: via Linkedin
-- ⚡ Fun fact: I prefer documentation over tutorials 
-</a>
