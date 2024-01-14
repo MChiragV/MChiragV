@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="![bgd](https://github.com/ChiragMV/ChiragMV/assets/122266494/63bcde4b-e647-42fd-aa7b-8f6641bc1d81) alt="mybanner">
+![bgd](https://github.com/ChiragMV/ChiragMV/assets/122266494/63bcde4b-e647-42fd-aa7b-8f6641bc1d81)
 
 
 <!--
