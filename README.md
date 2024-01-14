@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 -->
-<h1>
+<a>
 - 📫 How to reach me: via Linkedin
 - ⚡ Fun fact: I prefer documentation over tutorials 
-</h1>
+</a>
