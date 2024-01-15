@@ -9,7 +9,6 @@
 
 
 ## 🤝 Connect with me:
-#
 <a href="https://linkedin.com/in/m-v-chirag-65b900271"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Chirag | LinkedIn" width="21px"/></a><br />
 
 
