@@ -8,12 +8,12 @@
 - ⚡ Fun fact: I prefer documentation over tutorials.
 
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 #
 <a href="https://linkedin.com/in/m-v-chirag-65b900271"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Chirag | LinkedIn" width="21px"/></a><br />
 
 
-### Github Stats:
+## Github Stats:
 #
 [![Chirag’s github stats](https://github-readme-stats.vercel.app/api?username=ChiragMV)](https://github.com/ChiragMV)
 
