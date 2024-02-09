@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Chirag M V 😁
 - 🎓 Second year ECE student at IIIT Bangalore.
 
-- 🔬 Currently learning about Arduino and IoT.
+- 🔬 Currently learning about Arduino, IoT and DSP.
 
 - 📫 How to reach me: via Linkedin, but preferred in-person.
 
