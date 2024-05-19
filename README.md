@@ -13,9 +13,9 @@
 
 
 ## Github Stats:
-[![Chirag’s github stats](https://github-readme-stats.vercel.app/api?username=ChiragMV)](https://github.com/ChiragMV)
+[![Chirag’s github stats](https://github-readme-stats.vercel.app/api?username=MChiragV)](https://github.com/MChiragV)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragMV&layout=compact)](https://github.com/ChiragMV)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MChiragV&layout=compact)](https://github.com/MChiragV)
 
 ![](https://komarev.com/ghpvc/?username=ChiragMV&color=green)
 
