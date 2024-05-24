@@ -10,7 +10,6 @@
 - ⚡ Fun fact: I prefer documentation over tutorials.
 
 
-# Hi there, I'm [Your Name] 👋
 
 ## 💻 Tech Stack
 
