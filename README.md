@@ -3,6 +3,8 @@
 
 - 🔬 Currently learning about Arduino, IoT and DSP.
 
+- 🤖 A chatbot developer in my free time.
+
 - 📫 How to reach me: via Linkedin, but preferred in-person.
 
 - ⚡ Fun fact: I prefer documentation over tutorials.
