@@ -9,6 +9,7 @@
 
 - ⚡ Fun fact: I prefer documentation over tutorials.
 
+
 ## 💻 Tech Stack
 
 ### Programming Languages
@@ -34,6 +35,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
@@ -42,6 +44,9 @@
 ### Other Tools
 ![LTSpice](https://img.shields.io/badge/-LTSpice-EE2C2C?style=flat&logoColor=white)
 ![Multisim](https://img.shields.io/badge/-Multisim-FFB71B?style=flat&logoColor=black)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+
 
 
 
