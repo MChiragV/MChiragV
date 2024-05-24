@@ -10,7 +10,6 @@
 - ⚡ Fun fact: I prefer documentation over tutorials.
 
 
-
 ## 💻 Tech Stack
 
 ### Programming Languages
@@ -47,6 +46,9 @@
 [![Multisim](https://img.shields.io/badge/-Multisim-FFB71B?style=flat&logoColor=black)](https://www.ni.com/en-us/shop/electronic-test-instrumentation/software-defined-radio/multisim/what-is-multisim.html)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
+[![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
+
+
 
 
 
