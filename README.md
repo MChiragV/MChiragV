@@ -37,10 +37,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
 ### Other Tools
 ![LTSpice](https://img.shields.io/badge/-LTSpice-EE2C2C?style=flat&logoColor=white)
 ![Multisim](https://img.shields.io/badge/-Multisim-FFB71B?style=flat&logoColor=black)
+
 
 
 
