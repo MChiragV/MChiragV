@@ -28,6 +28,7 @@
 
 ### Frameworks and Libraries
 [![RASA](https://img.shields.io/badge/-RASA-5A4E9C?style=flat&logo=rasa&logoColor=white)](https://rasa.com/)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 ### Tools and Platforms
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
