@@ -20,7 +20,6 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![Verilog](https://img.shields.io/badge/-Verilog-008080?style=flat&logoColor=white)](https://www.verilog.com/)
-[![MIPS](https://img.shields.io/badge/-MIPS-2A2A2A?style=flat&logoColor=white)](https://www.mips.com/)
 
 ### Web Development
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
