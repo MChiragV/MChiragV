@@ -25,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MChiragV&layout=compact)](https://github.com/MChiragV)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MChiragV&color=green)](https://github.com/MChiragV)  
+[![Profile Views](https://komarev.com/ghpvc/?username=MChiragV&color=blue)](https://github.com/MChiragV)  
 
 ## 💻 Tech Stack
 
