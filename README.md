@@ -20,12 +20,12 @@
 
 
 ## Github Stats:
-[![Chirag’s github stats](https://github-readme-stats.vercel.app/api?username=MChiragV)](https://github.com/MChiragV)
+[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MChiragV)
+](https://github.com/MChiragV)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MChiragV&layout=compact)](https://github.com/MChiragV)
 
-![](https://komarev.com/ghpvc/?username=MChiragV&color=green)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=MChiragV&color=green)](https://github.com/MChiragV)  
 
 ## 💻 Tech Stack
 
