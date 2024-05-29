@@ -68,7 +68,6 @@
 
 
 
-[![MChiragV's GitHub | Stats](https://stats.quine.sh/MChiragV/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MChiragV)
 <!--
 **ChiragMV/ChiragMV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
