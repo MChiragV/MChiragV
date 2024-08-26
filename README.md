@@ -57,6 +57,7 @@
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Vivado](https://img.shields.io/badge/-Vivado-0071C5?style=flat&logo=xilinx&logoColor=white)](https://www.xilinx.com/products/design-tools/vivado.html)
 
 ### Other Tools
 [![LTSpice](https://img.shields.io/badge/-LTSpice-EE2C2C?style=flat&logoColor=white)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
