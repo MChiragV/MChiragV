@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Chirag M V 😁
 - 🎓 Third year ECE student at IIIT Bangalore.
 
-- 🔬 Currently learning about Arduino, FPGA and DSP.
+- 🔬 Currently learning about VLSI, Machine Learning, FPGA and DSP.
 
 - 🤖 A chatbot developer in my free time.
 
