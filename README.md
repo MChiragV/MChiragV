@@ -36,11 +36,12 @@
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 [![Verilog](https://img.shields.io/badge/-Verilog-008080?style=flat&logoColor=white)](https://www.verilog.com/)
-
+<!--
 ### Web Development
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+-->
 
 ### Frameworks and Libraries
 [![RASA](https://img.shields.io/badge/-RASA-5A4E9C?style=flat&logo=rasa&logoColor=white)](https://rasa.com/)
@@ -63,7 +64,7 @@
 [![LTSpice](https://img.shields.io/badge/-LTSpice-EE2C2C?style=flat&logoColor=white)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 [![Multisim](https://img.shields.io/badge/-Multisim-FFB71B?style=flat&logoColor=black)](https://www.ni.com/en-us/shop/electronic-test-instrumentation/software-defined-radio/multisim/what-is-multisim.html)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
+<!-- [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/) -->
 [![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)](https://www.canva.com/)
 
