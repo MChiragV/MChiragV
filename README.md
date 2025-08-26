@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Chirag 😁
-- 🎓 Third year ECE student at IIIT Bangalore.
+- 🎓 Fourth year ECE student at IIIT Bangalore.
 
 - 🔬 Currently learning about VLSI, Machine Learning, FPGA and DSP.
 
