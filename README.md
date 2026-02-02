@@ -16,12 +16,6 @@
 ## 🤝 Connect with me:
 <a href="https://linkedin.com/in/m-v-chirag-65b900271"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Chirag | LinkedIn" width="21px"/></a><br />
 
-
-## Github Stats:
-[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MChiragV)](https://github.com/MChiragV) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MChiragV&layout=compact)](https://github.com/MChiragV)
-
 [![Profile Views](https://komarev.com/ghpvc/?username=MChiragV&color=blue)](https://github.com/MChiragV)  
 
 ## 💻 Tech Stack
