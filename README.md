@@ -18,8 +18,7 @@
 
 
 ## Github Stats:
-[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MChiragV)
-](https://github.com/MChiragV) 
+[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MChiragV)](https://github.com/MChiragV) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MChiragV&layout=compact)](https://github.com/MChiragV)
 
