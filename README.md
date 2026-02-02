@@ -3,8 +3,6 @@
 
 - 🔬 Currently learning about VLSI, Machine Learning, FPGA and DSP.
 
-- 🤖 A chatbot developer in my free time.
-
 - 📫 How to reach me: via Linkedin, but preferred in-person.
 
 - ⚡ Fun fact: I prefer documentation over tutorials.
