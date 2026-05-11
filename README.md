@@ -14,7 +14,7 @@
 
 
 ## 🤝 Connect with me:
-<a href="https://linkedin.com/in/m-v-chirag-65b900271"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Chirag | LinkedIn" width="21px"/></a><br />
+<a href="https://linkedin.com/in/m-v-chirag"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Chirag | LinkedIn" width="21px"/></a><br />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MChiragV&color=blue)](https://github.com/MChiragV)  
 
