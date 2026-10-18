@@ -17,7 +17,8 @@
 <a href="https://linkedin.com/in/m-v-chirag"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Chirag | LinkedIn" width="21px"/></a><br />
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=MChiragV&color=red) 
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MChiragV&color=red&style=flat-square&v=2)](https://github.com/MChiragV/) 
 
 ## 💻 Tech Stack
 
